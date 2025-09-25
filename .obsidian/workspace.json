@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Interview(prep) 25.08.25.md",
-                "bFile": "Interview(prep) 25.08.25.md",
+                "aFile": "task.md",
+                "bFile": "task.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Interview(prep) 25.08.25"
+              "title": "Diff: task"
             }
           }
         ]
@@ -181,11 +181,11 @@
   },
   "active": "701b4b63bdc47746",
   "lastOpenFiles": [
+    "task.md",
+    "inter.md",
+    "kafka-guide.md",
     "Interview(prep) 25.08.25.md",
     "Interview(prep) 27.08.25.md",
-    "task.md",
-    "kafka-guide.md",
-    "interviewQuest.md",
-    "inter.md"
+    "interviewQuest.md"
   ]
 }

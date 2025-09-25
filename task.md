@@ -12,7 +12,7 @@
 ## Technology Stack
 
 ### Core Technologies
-- **Language:** Kotlin
+- **Language:** Kotlin1
 - jhghj
 - **Framework:** Spring Boot
 - **Build Tool:** Gradle
