@@ -11,14 +11,24 @@
             "id": "701b4b63bdc47746",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "task.md",
-                "bFile": "task.md",
-                "aRef": ""
+                "file": "MyProject.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: task"
+              "icon": "lucide-file",
+              "title": "MyProject"
             }
           }
         ]
@@ -94,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyProject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MyProject"
             }
           },
           {
@@ -181,6 +192,7 @@
   },
   "active": "701b4b63bdc47746",
   "lastOpenFiles": [
+    "MyProject.md",
     "task.md",
     "inter.md",
     "kafka-guide.md",
