@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: appearance.json"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +181,10 @@
   },
   "active": "701b4b63bdc47746",
   "lastOpenFiles": [
+    "Interview(prep) 27.08.25.md",
+    "interviewQuest.md",
+    "kafka-guide.md",
+    "Interview(prep) 25.08.25.md",
     "task.md",
     "inter.md"
   ]

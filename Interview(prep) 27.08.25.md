@@ -24,7 +24,8 @@ Tags: #JavaInterview
 # Interview(prep) 10.09.25
  - qwe
  - qwe
- - qwe
+ - qweпро
+ - 
 
 # Interview(prep) 22.09.25
 [[https://www.youtube.com/watch?v=xVACv8znQRo]]
