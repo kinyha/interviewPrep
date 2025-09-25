@@ -7,14 +7,14 @@
 - Explore asynchronous programming with Kotlin Coroutines (optional)
 - Implement basic frontend using Kotlin/JS (optional)
 
-## Technology Stack
+## Technology Stackasd
 
 ### Core Technologies
 - **Language:** Kotlin
 - **Framework:** Spring Boot
 - **Build Tool:** Gradle
 - **Database:** PostgreSQL
-- **ORM:** JPA/Hibernate
+- **ORM:** JPA/Hibernateфыв
 - **Migration:** Flyway
 - **Testing:** JUnit
 - **Custom Queries:** JDBC
