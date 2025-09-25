@@ -3,7 +3,9 @@
 - Implement enterprise-grade backend architecture using Spring Boot
 - Create a robust data persistence layer
 - Practice test-driven development
-- Gain experience with modern DevOps practices using Docker
+- Gain experience with modern DevOps practices using Dockera
+- О привет как дела
+- 
 - Explore asynchronous programming with Kotlin Coroutines (optional)
 - Implement basic frontend using Kotlin/JS (optional)
 
@@ -11,6 +13,7 @@
 
 ### Core Technologies
 - **Language:** Kotlin
+- jhghj
 - **Framework:** Spring Boot
 - **Build Tool:** Gradle
 - **Database:** PostgreSQL
