@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "Interview(prep) 25.08.25.md",
+                "bFile": "Interview(prep) 25.08.25.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: Interview(prep) 25.08.25"
             }
           }
         ]
@@ -181,11 +181,11 @@
   },
   "active": "701b4b63bdc47746",
   "lastOpenFiles": [
-    "Interview(prep) 27.08.25.md",
-    "interviewQuest.md",
-    "kafka-guide.md",
     "Interview(prep) 25.08.25.md",
+    "Interview(prep) 27.08.25.md",
     "task.md",
+    "kafka-guide.md",
+    "interviewQuest.md",
     "inter.md"
   ]
 }
