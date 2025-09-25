@@ -3,13 +3,13 @@
 - Implement enterprise-grade backend architecture using Spring Boot
 - Create a robust data persistence layer
 - Practice test-driven development
-- Gain experience with modern DevOps practices using Dockera
+- Gain experience with modern DevOps practices using Docker
 - О привет как дела
 - 
 - Explore asynchronous programming with Kotlin Coroutines (optional)
 - Implement basic frontend using Kotlin/JS (optional)
 
-## Technology Stackasd
+## Technology Stack
 
 ### Core Technologies
 - **Language:** Kotlin

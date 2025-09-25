@@ -11,14 +11,14 @@
             "id": "701b4b63bdc47746",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "task.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "task"
+              "icon": "diff",
+              "title": "Diff: appearance.json"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "08706030f3a7362b",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task"
+              "title": "Backlinks"
             }
           },
           {
@@ -182,6 +181,7 @@
   },
   "active": "701b4b63bdc47746",
   "lastOpenFiles": [
+    "task.md",
     "inter.md"
   ]
 }
